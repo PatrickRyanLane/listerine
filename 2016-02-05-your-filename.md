@@ -1,0 +1,40 @@
+## Tactile Feedback in User Centric Design
+
+Last week I realized I was running low on Listerine. Fearing a halitosis fiasco I added it to my family's shared grocery list in the iOS reminders app (I swear, my life is riveting).
+
+The next time I stopped at Wegmans – yes it is [the best grocery store](http://fuckyeahwegmans.tumblr.com) in the known universe. No you cannot convince me otherwise. I'll not have you and your _Fearless Flyer_, Trader Joe! – I picked up a bottle of the purple Listerine (I had been feeling the need for its 6 extra benefits to round out my dental hygiene).
+
+I got the bottle home, brought it into the bathroom, ripped off the plastic wrap, and for the first time in my life was perplexed by how to open it. The problem was not that the cap was unyielding, on the contrary Listerine has long had a child safe cap that has been as malleable as thin plastic under my fingertips. Instead I realized the problem came from the texture of the cap. The new bottle had a ribbing, for grip, much like the one before it, but a subtle change in the demarkation around the "squeeze points" left my fingers fumbling.
+
+It took three tries for me to pry cap from bottle, only a few seconds and a minor inconvenience, sure, but it got me thinking about the design that went into that cap. I pulled the old bottle out of the recycling for a little comparison and I found that the designers seem to have over-thought the whole thing. I can only speculate here as I did not design the cap and if I had I'm sure it would've resulted in a much more convoluted design. But in the time honored tradition of the internet, I figured [I'd chime in.](http://www.nbc.com/saturday-night-live/video/should-you-chime-in-on-this/2941773)
+
+I present to you the two caps, in a side by side (top down?) comparison:
+![Old Listerine Cap](http://www.patrickryanlane.com/wp-content/uploads/2016/02/Old-Listerine.jpg) ![New Listerine Cap](http://www.patrickryanlane.com/wp-content/uploads/2016/02/New-Listerine.jpg)
+
+Both caps display the same ribbed texture, allowing the user to easily grip and turn the cap, even with wet hands. On the old cap you'll notice the smooth rectangles at the bottom that denote where to squeeze to defeat the child safety lock.
+
+On the new cap you'll see a new design for those areas, a rectangle with rounded sides, with the same ridges as the body of the cap. You'll also notice the "LISTERINE" branding, which is smooth AND unfortunately placed over the clips of the safety lock. Push in on those smooth sides and you'll just engage the child safety lock even more.
+
+The new design looks sleeker and newer, at first glance you might even think it gives better grip, but it doesn't deliver the tactile feedback the user needs to open the bottle without looking. Worse yet the feedback given misleads the user.
+
+I can imagine a VP looking at the old bottle, and demanding a design change, or a well-meaning employee looking to make their mark.
+
+>"The old cap is old!" They said.  
+>"The new cap is new!" they said.  
+>"You'll love it!" they said.
+
+To my untrained eye, the thought that went into that sleek new design was all about updating how the bottle looks on the shelf, and not about the utility inherent in the old design.
+
+Lets do a quick redesign for Listerine, shall we? What does a cap need to do?
+
+1. Create a leak proof **seal** (Well done!)
+2. **Open** in some way (Twists!)
+3. **Protect** the contents (Child proof!)
+4. Give the user a good **grip** (Ridges!)
+5. Allow the user to operate in ~~any conditions~~ the dark/without caffeine/**without looking** (~~Pass~~/Fail)
+
+Nowhere on our list is "looking cool," or "being on brand" a necessary function. But, as a marketer myself, I get it (kinda). Cool things look cool, and some people think brand names need to be plastered everywhere. So, lets engineer a solution: Taking my favorite feature from the old cap, the smooth "notifier" surface, and the cool look of the new cap, we can make a "cool notifier surface." Listerine, smooth out those ridges on the notifier area and you've got one hell of a cap.
+
+The importance of tactile feedback in design is an oft overlooked topic. And that is probably due to the fact that you really only take note of good tactile feedback after it's gone. But, every once in a while my phone will vibrate softly in response to some action and it feels, almost alive. On those rare occasions I can't help think that some designer out there is smiling and thinking "Well done." Good tactile feedback creates a more inviting and human experience with products. You can have actual touch feedback from your devices, or from your mouthwash bottle. Putting all of your senses to use isn't just good design, for some its a necessity. I'm sure I'll go along fumbling with my current Listerine bottle for a while, but if we can use design to make a better world for everyone of every ability, shouldn't we be doing that? Even if it is a stupid bottle of mouthwash.
+
+Thanks for joining me on this (slightly inane) thought exercise. For some reason, struggling to open a Listerine bottle, then watching my wife struggle to open it in the same way triggered a "We can fix this through design!" response somewhere in my soul. I also wanted to give [Markdown formatting](http://markdowntutorial.com/) and the [Atom text editor](https://atom.io/) a try. It was a fun learning experience all around. Now, **go forth and explore**!
